@@ -6,7 +6,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.widget.TextView;
 
-public class modules extends AppCompatActivity {
+public class ModuleActivity extends AppCompatActivity {
     TextView tvDisplay;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
